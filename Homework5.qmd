@@ -159,7 +159,7 @@ na_counts
 Looks like we do not have any missing values for any variable in this tibble.
 
 
-**Categorical variables**
+##Categorical variables
 • Create a one-way contingency table, a two-way contingency table, and a three-way contingency table
 for some of the factor variables you created previously. Use table() to accomplish this.
 – Interpret a number from each resulting table (that is, pick out a value produced and explain what
@@ -321,7 +321,7 @@ print(side_by_side_bar)
 
 From the graph we can see that Number of students in the GP school are more than MS school. The number female students are more in both schools
 
-**Numeric variables (and across groups)**
+##Numeric variables (and across groups)
 The numeric variables are age, absences, and the three test grades variables (G1, G2, and G3) from each
 data set (math and Portuguese).
 
